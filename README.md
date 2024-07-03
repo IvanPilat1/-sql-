@@ -15,3 +15,6 @@
 | 1000           | YOUNG SINGLES/COUPLES   | Преміум          |
 | 1002           | YOUNG SINGLES/COUPLES   | Масовий          |
 
+також дані можна завантажити за посиланнями нижчее
+[QVI_purchase_behaviour.xlsx](https://github.com/user-attachments/files/16088742/QVI_purchase_behaviour.xlsx)
+[QVI_transaction_data (1).xlsx](https://github.com/user-attachments/files/16088743/QVI_transaction_data.1.xlsx)
